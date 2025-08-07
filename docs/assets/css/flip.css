@@ -147,6 +147,9 @@
 @media (max-width: 992px) {
   .flipbook {
     margin-top: 10px;
+      width: 100%;
+    height: auto;
+    aspect-ratio: 922 / 700;
   }
 }
 
